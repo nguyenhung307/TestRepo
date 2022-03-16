@@ -14,6 +14,7 @@ public class move : MonoBehaviour
     void Update()
     {
         Debug.Log("aaaaaa");
-        Debug.Log("bbbbb");
+        aaaaaa;
+
     }
 }
